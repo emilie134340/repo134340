@@ -1,4 +1,4 @@
-# Inatructions to get started
+# Instructions to get started
 
 'npm install'
 
